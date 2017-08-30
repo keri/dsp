@@ -48,13 +48,13 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I have both 2.7 which I used for a recent class I took elsewhere and I also just updated to 3.6. I was worried about messing up my anaconda files (as I had a problem previously with this) so I created a new environments within anaconda and installed python 3.6 into that. I'm hoping this didn't complicate things.
 
 ### Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> You can open the command line and type in python. If python is installed, it will open up the interpreter and provide a version number of python.
 
  
 
