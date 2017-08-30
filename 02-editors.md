@@ -89,6 +89,6 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> I have spent a fair bit of time working with atom and feel comfortable using that. I also li
+>> I have spent a fair bit of time working with atom and feel comfortable using that. The shortcuts I use most are the indent lines: comd-] and toggle comments: cmd-/. I also like Jupyter Notebook when setting up a class or have a new coding idea I am experimenting with. Since I am leaning toward emacs for the terminal, I will also spend some time with it to see if I want to use it for the graphical editor as well. So far, I have not used a full IDE for development but know that as I gain experience, it will be helpful to have a good debugger. I have heard great things about pycharm so will give that a try at some point.
 
  
