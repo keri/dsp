@@ -29,7 +29,8 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 > > **copying a file from one directory to another:** cp [file] [dir]
 > > **pushing output to a file to a file:** > [file]
 > > **changing directory:** cd[dir]
-> > **last command written:** tab
+> > **last command written:** up arrow
+> > **auto-fill:** tab
 
 ---
 
